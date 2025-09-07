@@ -85,8 +85,8 @@ local RAW_LIST = {
     {"Esoteric Depths","Abyss Seahorse","Mythic","https://assets.antibokeh.com/fish/abyss-seahorse.png"},
 
     {"Tropical Grove","Thresher Shark","Mythic","https://assets.antibokeh.com/fish/thresher-shark.png"},
+    {"Tropical Grove","Strippled Seahorse","Secret","https://assets.antibokeh.com/fish/strippled-seahorse.png"},
     {"Tropical Grove","Great Whale","Secret","https://assets.antibokeh.com/fish/great-whale.png"},
-    -- Strippled Seahorse tidak diberi rarity -> di-skip sesuai filter Mythic/Secret
 
     {"Creater Island","Plasma Shark","Mythic","https://assets.antibokeh.com/fish/plasma-shark.png"},
     {"Creater Island","Frostborn Shark","Secret","https://assets.antibokeh.com/fish/frostborn-shark.png"},
