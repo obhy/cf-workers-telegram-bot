@@ -71,6 +71,7 @@ local RAW_LIST = {
     {"Ocean","Blob Shark","Secret","https://assets.antibokeh.com/fish/blob-shark.png"},
     {"Ocean","Ghost Shark","Secret","https://assets.antibokeh.com/fish/ghost-shark.png"},
     {"Ocean","Worm Fish","Secret","https://assets.antibokeh.com/fish/worm-fish.png"},
+    {"Ocean","Megalodon","Secret","https://assets.antibokeh.com/fish/megalodon.png"},
 
     {"Konoha","Loggerhead Turtle","Mythic","https://assets.antibokeh.com/fish/loggerhead-turtle.png"},
     {"Konoha","Prismy Seahorse","Mythic","https://assets.antibokeh.com/fish/prismy-seahorse.png"},
